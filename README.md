@@ -1,2 +1,2 @@
-# Y-netim-panelli-Web-Site-Tasar-m-
+# Yonetim-panelli-Web-Site-Tasarımı-
 Php uygulama5
